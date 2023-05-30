@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\bin\Debug\GUI ku.exe.config
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\bin\Debug\GUI ku.exe
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\bin\Debug\GUI ku.pdb
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI ku.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI ku.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI_ku.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI_ku.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI ku.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI ku.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI ku.exe
+C:\Users\User\Documents\Visual Studio 2022\GUI ku\GUI ku\GUI ku\obj\Debug\GUI ku.pdb
